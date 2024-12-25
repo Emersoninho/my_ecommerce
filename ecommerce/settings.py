@@ -27,6 +27,9 @@ DEBUG = True
 
 ALLOWED_HOSTS = []
 
+#sessão do carrinho
+CART_SESSION_ID = 'cart'
+
 
 # Application definition
 
